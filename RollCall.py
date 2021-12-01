@@ -8,7 +8,7 @@ Created on Wed Dec  1 10:13:14 2021
 
 print("Hello, my name is Hamish")
 
-Attendees=['Hamish','Ben','Dan']
+Attendees=['Hamish','Ben','Dan',"Jack","Matt D","Conor"]
 
 print("Welcome:")
 for i in Attendees:
